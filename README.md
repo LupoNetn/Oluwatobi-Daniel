@@ -1,5 +1,3 @@
-# Oluwatobi-Daniel
-
 <!-- Banner -->
 ![Banner](https://via.placeholder.com/1200x250.png?text=Engineering+the+Future+of+Software)
 
@@ -45,15 +43,18 @@ My mission is to **transform bold ideas into reality** using modern technologies
 
 ---
 
-## 📊 GitHub Stats  
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+## 📊 GitHub Stats & Activity  
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=luponetn&show_icons=true&theme=radical&cache_seconds=1800)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luponetn&layout=compact&theme=radical&cache_seconds=1800)  
+![GitHub Streak](https://streak-stats.demolab.com?user=luponetn&theme=radical&date_format=M%20j%5B%2C%20Y%5D)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luponetn&theme=react-dark)  
 
 ---
 
 ## 🌎 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/daniel-lupo-o)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff)](https://www.instagram.com/oluwatobii.io)  
+![Profile Views](https://komarev.com/ghpvc/?username=luponetn&color=blue)
 
 ---
 
